@@ -1,0 +1,15 @@
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\bin\Debug\net6.0\C#110_HelloConsole.exe
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\bin\Debug\net6.0\C#110_HelloConsole.deps.json
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\bin\Debug\net6.0\C#110_HelloConsole.runtimeconfig.json
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\bin\Debug\net6.0\C#110_HelloConsole.dll
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\bin\Debug\net6.0\C#110_HelloConsole.pdb
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\C#110_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\C#110_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\C#110_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\C#110_HelloConsole.AssemblyInfo.cs
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\C#110_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\C#110_HelloConsole.dll
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\refint\C#110_HelloConsole.dll
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\C#110_HelloConsole.pdb
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\C#110_HelloConsole.genruntimeconfig.cache
+C:\Users\SoulStrike\Desktop\C#11\C#110_HelloConsole\obj\Debug\net6.0\ref\C#110_HelloConsole.dll
